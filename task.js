@@ -4,7 +4,7 @@ function averageMark(a, g, p) {
 
 function sayHello(userName) {
 	
-	return 'Привет, мир! Меня зовут ' + userName;
+	return `Привет, мир! Меня зовут ${userName}`;
 }
 
 function calculateFormula() {
